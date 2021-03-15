@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kseniia Bloshkina
 - 👀 I’m interested in automation on Java
 - 🌱 I’m currently learning QA at Netology
-- 💞️ I’m looking to collaborate with someone for Automation QA
+- 💞️ I’m looking to collaborate on any project
 - 📫 Text me: kseniia.bloshkina@gmail.com
 
 <!---
